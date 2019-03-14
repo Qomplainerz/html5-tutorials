@@ -1,0 +1,3 @@
+To force your browser to read your code as HTML5 add the following above the <html> tags.
+
+<!DOCTYPE html>
