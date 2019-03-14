@@ -1,0 +1,15 @@
+The basic layout of a HTML5 document is as follows:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>qp tutorials</title>
+  </head>
+  
+  <body>
+  visible code goes here
+  </body>
+</html>
+
+The doctype is optional, but recommended, because it tells your browser to read it as HTML5 only.
+If you don't add it some browsers may try to read it as HTML4 or something and display unexpected results.
